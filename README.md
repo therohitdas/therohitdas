@@ -110,6 +110,7 @@ That's the pattern. quizprank, YTT — both copies of bad products made much bet
 ## 🔗 Connect
 
 [![Twitter](https://img.shields.io/badge/-@theRohitDas-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theRohitDas)
+[![Discord](https://img.shields.io/badge/-therohitdas-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/395586891019452418)
 [![LinkedIn](https://img.shields.io/badge/-Rohit_Das-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/therohitdas)
 [![ClawHub](https://img.shields.io/badge/-🦞_ClawHub-FF6B6B?style=flat-square)](https://clawhub.ai/u/therohitdas)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/therohitdas)
