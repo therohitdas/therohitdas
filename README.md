@@ -28,13 +28,20 @@
 
 *(stats from Jan 2026)*
 
-### Agent Skills (ClawHub)
+### Agent Skills
 
-- 🦞 **[youtube-full](https://clawhub.ai/therohitdas/youtube-full)** — Complete YouTube toolkit for agents. Transcripts, search, channels, playlists.
-- 🔌 **[transcriptapi](https://clawhub.ai/therohitdas/transcriptapi)** — Give your agent access to YouTube transcripts.
+[![OpenClaw](https://img.shields.io/badge/-🦞_OpenClaw-FF6B6B?style=flat-square)](https://clawhub.ai/therohitdas/youtube-full)
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-000?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
+[![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
+[![Windsurf](https://img.shields.io/badge/-Windsurf-0EA5E9?style=flat-square)](https://github.com/ZeroPointRepo/youtube-skills)
+[![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
+
+- 🎬 **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** — Complete YouTube toolkit for AI agents. Transcripts, search, channels, playlists.
 - 📋 **[+11 more skills](https://clawhub.ai/u/therohitdas)** — 3K+ combined installs
 
-👉 **[See all my skills on ClawHub →](https://clawhub.ai/u/therohitdas)**
+```bash
+npx skills add ZeroPointRepo/youtube-skills
+```
 
 ### Open Source
 
