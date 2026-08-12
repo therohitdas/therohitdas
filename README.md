@@ -1,130 +1,58 @@
-# Hey, I'm Rohit Das 👋
+<p align="center">
+  <samp>
+    <a href="https://therohitdas.com">site</a> ·
+    <a href="https://therohitdas.com/thoughts/">writing</a> ·
+    <a href="https://therohitdas.com/#selected-work-heading">work</a> ·
+    <a href="https://www.instagram.com/the.rohitdas/">photos</a> ·
+    <a href="https://therohitdas.com/contact/">hello</a>
+  </samp>
+</p>
 
-📍 **Uttarpara, India** | 🤖 **Agentic Builder** | 💬 **Natural Language Programmer**
+# Hey, I'm Rohit.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-🦞_OpenClaw-FF6B6B?style=flat-square)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+I build small internet products and write about what I learn along the way.
 
-> I think from other people's perspective. I overspend energy on things I care about. Sometimes on things that don't matter 😅
+I'm a [product partner](https://therohitdas.com/thoughts/what-i-mean-by-product-partner/) at [Zero Point Studio](https://zeropointstudio.io). I help decide what gets built, shape the product and its public surface, find ways to get it in front of people, and keep it useful after launch. Agents handle a lot of the implementation now. I still own the outcome.
 
----
+Most days I am somewhere between a product decision, a landing page, an API response, a support message, and an agent doing something surprising in a terminal.
 
-## 🚀 What I'm Building
+## What I help run
 
-### Zero Point Studio
+### [YouTube to Transcript](https://youtubetotranscript.com)
 
-| Project | Description | Scale |
-|---------|-------------|-------|
-| 🎬 **[TranscriptAPI](https://transcriptapi.com)** | YouTube transcripts, search, channels, and playlists for apps and agents | **15M+ transcripts/mo · 1,700 paying customers** |
-| 📝 **[YouTubeToTranscript](https://youtubetotranscript.com)** | Turn any YouTube video into text you can read, search, edit, or translate | **2M+ Google clicks · 1M+ active users** |
-| 🧩 **[Chrome Extension](https://chromewebstore.google.com/detail/youtube-to-transcript-ai/bcmoplgjpddohaelhnnodojbamdobbhc)** | Transcripts, summaries, insights, and chat without leaving YouTube | **60K users · 4.8★** |
+Paste a YouTube link and get text you can read, search, edit, translate, or feed into another tool. The website is free. The [Chrome extension](https://chromewebstore.google.com/detail/youtube-to-transcript-ai/bcmoplgjpddohaelhnnodojbamdobbhc) brings transcripts, summaries, and chat onto YouTube itself.
 
-[More coming soon, half baked projects that need a push]
+<samp>2M+ Google clicks · 4.4M unique visits · 1M+ active users</samp><br>
+<samp>60K extension users · 4.8★</samp>
 
-*(stats updated Aug 2026)*
+### [TranscriptAPI](https://transcriptapi.com)
 
-### Agent Skills
+YouTube transcripts, search, channels, and playlists for software and AI agents. It works through a REST API, MCP, and installable agent skills. I work across the product, pricing, docs, integrations, distribution, and whatever breaks next.
 
-[![OpenClaw](https://img.shields.io/badge/-🦞_OpenClaw-FF6B6B?style=flat-square)](https://clawhub.ai/therohitdas/youtube-full)
-[![Claude Code](https://img.shields.io/badge/-Claude_Code-000?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
-[![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
-[![Windsurf](https://img.shields.io/badge/-Windsurf-0EA5E9?style=flat-square)](https://github.com/ZeroPointRepo/youtube-skills)
-[![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/ZeroPointRepo/youtube-skills)
+<samp>15M+ transcripts each month · 1,700 paying customers</samp>
 
-- 🎬 **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** — Complete YouTube toolkit for AI agents. Transcripts, search, channels, playlists.
-- 📋 **[16 skills on ClawHub](https://clawhub.ai/u/therohitdas)** — 75K+ combined downloads
+## Things I made because the gap annoyed me
 
-```bash
-npx skills add ZeroPointRepo/youtube-skills
-```
+- [**ScreenFocus**](https://github.com/therohitdas/ScreenFocus) moves keyboard focus to the Mac display under your pointer. I use multiple monitors and got tired of typing into the wrong one.
+- [**slk**](https://github.com/therohitdas/slkcli) is a Slack CLI for macOS. It lets my agents read and send messages without a separate OAuth setup.
 
-### Open Source
+I also publish [YouTube skills for agents](https://github.com/ZeroPointRepo/youtube-skills). My [ClawHub profile](https://clawhub.ai/u/therohitdas) currently has 16 skills and more than 75K combined downloads.
 
-- 💬 **[slkcli](https://github.com/therohitdas/slkcli)** — Slack CLI for macOS. Let your agents read/send messages.
-- 🐦 **[Bot100daysofcode](https://github.com/therohitdas/Bot100daysofcode)** — Twitter bot that powered @100daysofcoders
+## The older internet
+
+I have been building online since 2016. The early products were rough, weird, and very good at teaching me what people actually share.
+
+One of them went viral from a room with no electricity. I sold books to friends to pay the DigitalOcean bill; the first payout bought a solar panel. A later group of anonymous social products reached 17 million registered users. On the busiest day, 1.7 million people showed up. Then the distribution disappeared almost as quickly as it arrived.
+
+That is probably why I care as much about how a product travels as how it is built.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/therohitdas)
-
----
-
-## 🛤️ The Journey
-
-<details>
-<summary><b>From surveys to millions of users</b> (click to expand)</summary>
-
-<br>
-
-**2016** — Started doing surveys for $0.50. Clicking ads. Refer-and-earn schemes.
-
-**2019** — Built my first viral quiz product from a room with no electricity.
-- No fan, no light, just code
-- Crashed the PHP host for a day (code was that bad)
-- Sold books to friends to pay for DigitalOcean
-- First payout: **$133** → bought a solar panel
-
-**2020-2021** — A small portfolio of anonymous social products went viral
-- **1.7M daily users** at peak (single day)
-- Philippines, Africa, India, London
-- 17M registered users total; Google analytics shows 600M+ pageviews
-
-**2022-2023** — The dark times
-- Facebook killed the traffic
-- Severe depression
-- Revenue collapsed
-
-**2024** — Rebirth
-- Shut down viral sites (~$100K lifetime revenue)
-- Built YouTubeToTranscript.com
-- **Sold it for $10K** (Oct 2024)
-- Now: monthly fee + 10% profit share + equity + AI costs covered
-
-**2026** — Building for agents
-- TranscriptAPI processing 15M+ transcripts/month
-- 16 skills on ClawHub with 75K+ combined downloads
-- First yearly subscription from ClawHub 🎉
-
-**The constant:** All of this was built from rooms in West Bengal. First without electricity (2014-2021), now with 😂
-
-</details>
-
----
-
-## 🎯 Philosophy
-
-> "Find products with latent demand that suck. Build something 10x better."
-
-That's the pattern. quizprank, YTT — both copies of bad products made much better.
-
----
-
-## 🔗 Connect
-
-[![Twitter](https://img.shields.io/badge/-@theRohitDas-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/theRohitDas)
-[![Discord](https://img.shields.io/badge/-therohitdas-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/395586891019452418)
-[![LinkedIn](https://img.shields.io/badge/-Rohit_Das-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/therohitdas)
-[![ClawHub](https://img.shields.io/badge/-🦞_ClawHub-FF6B6B?style=flat-square)](https://clawhub.ai/u/therohitdas)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/therohitdas)
-
----
-
-<details>
-<summary>🎲 Random Facts</summary>
-
-<br>
-
-- My ClawdBot (Rani 👸) helps me work, reminds me to sleep, and roasts me when I slack off
-- Native of UP, grew up in West Bengal, not actually Bengali
-- "Hindmotor" is a factory town where my father worked — it's where the no-electricity era happened
-- I voice-to-text everything (if my messages have typos, that's why)
-- Currently trying to fix my sleep schedule (again)
-
-</details>
+<p align="center">
+  <samp>
+    <a href="https://github.com/therohitdas">github</a> ·
+    <a href="https://x.com/theRohitDas">x</a> ·
+    <a href="https://t.me/therohitdas">telegram</a> ·
+    <a href="mailto:hello@therohitdas.com">email</a>
+  </samp>
+</p>
